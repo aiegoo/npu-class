@@ -1,0 +1,23 @@
+# User home directory exclusions
+.*
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Public/
+Templates/
+Videos/
+
+# Temporary / testing files
+*.log
+test.jpg
+npu.zip
+hailo-apps/
+
+# Compiled models & caches
+*.hef
+*.har
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
