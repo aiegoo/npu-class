@@ -1,0 +1,8 @@
+hailo-all	5.1.1
+hailo-models	1.0.0-2
+hailo-tappas-core	5.1.0
+hailort	4.23.0
+hailort-pcie-driver	4.23.0
+python3-hailo-tappas	5.1.0
+python3-hailort	4.23.0-1
+rpicam-apps-hailo-postprocess	1.14.0-1
